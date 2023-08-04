@@ -151,7 +151,7 @@ ul {
 .btn {
   font-size: 16px;
   font-weight: 500;
-  padding: 12px 35px;
+  padding: 15px 25px;
   color: white;
   border-radius: 50px;
   display: inline-block;
@@ -212,8 +212,8 @@ ul {
 .aside .logo a::before {
   content: "";
   position: absolute;
-  width: 20px;
-  height: 20px;
+  width: 170px;
+  height: 55px;
   border-bottom: 5px solid var(--skin-color);
   border-left: 5px solid var(--skin-color);
   bottom: 0;
@@ -223,8 +223,8 @@ ul {
 .aside .logo a::after {
   content: "";
   position: absolute;
-  width: 20px;
-  height: 20px;
+  width: 170px;
+  height: 55px;
   border-top: 5px solid var(--skin-color);
   border-right: 5px solid var(--skin-color);
   top: 0;
@@ -331,19 +331,20 @@ ul {
 
 h3.hello {
   font-size: 28px;
-  margin: 15px 0;
+  margin-top: 92px;
 }
 
 h3.hello span {
   font-family: "Clicker Script", cursive;
-  font-size: 30px;
+  font-size: 45px;
   font-weight: 700;
   color: var(--skin-color);
 }
 
 h3.my-profession {
   font-size: 30px;
-  margin: 15px 0;
+  margin-top:-3px;
+  margin-bottom: 15px;
 }
 
 .typing {
@@ -352,7 +353,7 @@ h3.my-profession {
 
 .home-info p {
   font-size: 20px;
-  margin-bottom: 70px;
+  margin-bottom: 40px;
   color: var(--text-black-700);
 }
 
@@ -382,7 +383,7 @@ h3.my-profession {
   border-left: 10px solid var(--skin-color);
   border-bottom: 10px solid var(--skin-color);
   right: 324px;
-  bottom: -40px;
+  bottom: -35px;
 }
 
 .home .home-img img {
